@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class SampleTest {
+public class ApiTest {
     @Test
     public void testing()
     {
